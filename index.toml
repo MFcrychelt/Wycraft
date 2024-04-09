@@ -85,14 +85,6 @@ file = "fallingtrees_common.json"
 hash = "9fdb19069a96666e06385ad940a1bd600182577f8d593ccf5bf1378f845a4d00"
 
 [[files]]
-file = "fancymenu/assets/AchiveToDo.mp4"
-hash = "e8323325beb6d8e18d8d5eb888bddc6e82a16b1c08bb3cf0a59cb980a15642b1"
-
-[[files]]
-file = "fancymenu/assets/achivetodobackground.gif"
-hash = "1c9b5ca10b0d76e97a4e27b1c8b3ffbca503ca0b4b99f27d30fb8e501a16e261"
-
-[[files]]
 file = "fancymenu/assets/ava.png"
 hash = "8fc1957b6e08aa1371af045c74c0f8825b91074f6af8034792bcc1869bf90ccd"
 
@@ -155,10 +147,6 @@ hash = "3400fbe7ffafbe5efbdcb0455c46730fc20626753b7c779f8c94d2cc8eb269f2"
 [[files]]
 file = "fancymenu/assets/rainbow.gif"
 hash = "80354746826be75f7ab0c634c205d4b56c6005b2d6df7c62b97074b2f6e4fab6"
-
-[[files]]
-file = "fancymenu/assets/speedrun.mp3"
-hash = "45e6fbb4d66e8908a1e7a0ae6ccd38a60b6035e0c59a9e61941784baaa1fba1a"
 
 [[files]]
 file = "fancymenu/assets/speedrun.ogg"
@@ -323,14 +311,6 @@ hash = "8f77fedd51b3d85c170e3f20357b30a59ccc3faaa9fd747fcc1a1e9e217040f9"
 [[files]]
 file = "litematica.json"
 hash = "df1c07e74143a20a0aa2e2971b520c21769223ccca0a4d4714fc0fbf91e65059"
-
-[[files]]
-file = "litematica/litematica_production-catalogs.gl.joinmc.link.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "litematica/litematica_production-catalogs.gl.joinmc.link_dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
 
 [[files]]
 file = "lithium.properties"
