@@ -1,0 +1,13 @@
+name = "WycraftMods"
+author = "MaksFaktor"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0532854d2469aa1363010f8555258b356581985f754b1bb90323d0ddcebfeff3"
+
+[versions]
+fabric = "0.15.9"
+minecraft = "1.20.4"
