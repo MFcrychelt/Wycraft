@@ -1,4 +1,4 @@
-name = "WycraftMods"
+name = "Wycraft"
 author = "MaksFaktor"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0532854d2469aa1363010f8555258b356581985f754b1bb90323d0ddcebfeff3"
+hash = "03ddb05878b99c3c4d510d3938c9091740fbb051a5b9d59bd9b29a4fa39d6a38"
 
 [versions]
 fabric = "0.15.9"

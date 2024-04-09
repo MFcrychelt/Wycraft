@@ -1,0 +1,29 @@
+{
+	"itemEntitiesExtinguishWhenSubmerged": true,
+	"campfires": {
+		"burnDuration": 24000,
+		"defaultLitStateWhenPlaced": false,
+		"extinguishInRainChance": 0.0,
+		"extinguishOverTime": true
+	},
+	"candles": {
+		"burnDuration": 24000,
+		"extinguishInRainChance": 1.0,
+		"extinguishOverTime": true
+	},
+	"jackOLanterns": {
+		"burnDuration": 24000,
+		"extinguishInRainChance": 0.0,
+		"extinguishOverTime": true
+	},
+	"lanterns": {
+		"burnDuration": 24000,
+		"extinguishInRainChance": 0.0,
+		"extinguishOverTime": true
+	},
+	"torches": {
+		"burnDuration": 24000,
+		"extinguishInRainChance": 0.25,
+		"extinguishOverTime": true
+	}
+}
