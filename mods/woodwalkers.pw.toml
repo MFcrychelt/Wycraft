@@ -1,0 +1,13 @@
+name = "woodwalkers"
+filename = "walkers-4.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sr1HeD8z/versions/imgn23Bg/walkers-4.1-fabric.jar"
+hash-format = "sha1"
+hash = "50d44f7f89c3772f40ee832c898681a6041c937f"
+
+[update]
+[update.modrinth]
+mod-id = "Sr1HeD8z"
+version = "imgn23Bg"

@@ -1,0 +1,13 @@
+name = "Quad"
+filename = "Quad-1.1.5+1.20.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7jzrCiK0/versions/jz01HHU5/Quad-1.1.5%2B1.20.4-Fabric.jar"
+hash-format = "sha1"
+hash = "08cf7249539ab24d136dc723efbd4a3b1a6a8738"
+
+[update]
+[update.modrinth]
+mod-id = "7jzrCiK0"
+version = "jz01HHU5"
